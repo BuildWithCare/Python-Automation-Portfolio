@@ -1,7 +1,4 @@
-# Python-Automation-Portfolio
-This repository showcases portfolio-level Python projects demonstrating my expertise in Selenium automation, web scraping, and data extraction
-
-                                ## **Product Suitable Vehicle Tab Scraper Demonstration**
+# Product Suitable Vehicle Tab Scraper Demonstration
 ## Overview
 The "Product Suitable Vehicle Tab Scraper Demonstration" demonstrates a production-style Python Selenium
 automation architecture used for scraping complex, dynamic web applications.
@@ -34,7 +31,7 @@ legitimate project discussions.
 
 
 
-                                            ## **Product Cards URL Scraper Demonstration**
+# Product Cards URL Scraper Demonstration
 
 ### Project Summary
 Built a production-grade web scraper "Product Cards URL Scraper Demonstration" that systematically extracts 50,000+ product listings
@@ -61,7 +58,7 @@ from a major European automotive parts e-commerce platform with complex navigati
 - Explicit Waits and robust element location
 
 
-                       ## **Multiple CSV files Data Comparison to Get desired data Demonstration**
+# Multiple CSV files Data Comparison to Get desired data Demonstration
   
 ## Overview
 This repository demonstrates Python skills in:
